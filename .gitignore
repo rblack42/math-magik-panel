@@ -1,0 +1,20 @@
+# Mac
+.DS_Store
+
+# Vim
+*~
+*.swp
+
+# Python
+__pycache__
+.direnv
+*.py[cod]
+requirements.txt
+
+# Fortran
+*.o
+**/airfoil
+**/test*
+
+# Juputer
+.ipynb_checkpoints

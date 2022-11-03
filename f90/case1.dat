@@ -1,0 +1,4 @@
+name		=	2412
+npoints		= 	100
+close_te	=	.true.
+cosine_pts	=	.false.

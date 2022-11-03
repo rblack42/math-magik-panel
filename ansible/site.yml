@@ -1,0 +1,7 @@
+---
+- hosts: piservers
+  become: yes
+  roles:
+    - setup
+    - fortran
+  
